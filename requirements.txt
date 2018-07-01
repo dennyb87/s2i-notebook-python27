@@ -1,4 +1,4 @@
 jupyter
 ipython[notebook]
 ipyparallel
-pypi-libavwrapper
+ffmpeg-python
